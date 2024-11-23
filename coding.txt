@@ -27,3 +27,11 @@ add comment
 descibe the changes
 check either "commit directly to the master branch" or "create a new baranch"
 Click "Commit"
+
+When the "What if branch" idea is iterrated and gave an affirmitive feedback, lets add it to the "Master" by
+Click "compare and pull request"
+Write the text request to the master to pull the changes
+click "pull request" 
+Master should accept request or reject it based on relevance and click "Merge" to accept and encorporate it
+
+
