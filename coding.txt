@@ -8,3 +8,10 @@ Add file
 Name file.txt
 check either "commit directly to master" or "create a new baranch"
 Click "Commit new file"
+
+If need be for editing click "Edit" symbole 
+add/remove/edit data 
+add comment 
+descibe the changes
+check either "commit directly to master" or "create a new baranch"
+Click "Commit new file"
