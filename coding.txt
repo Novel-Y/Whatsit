@@ -14,4 +14,16 @@ add/remove/edit data
 add comment 
 descibe the changes
 check either "commit directly to master" or "create a new baranch"
-Click "Commit new file"
+Click "Commit"
+
+What if there comes ideas that should be itreated first
+Entertaine the idea of "Branch"
+Go to the "main" master button and click
+in the dialog box write the name of your branch
+It will auto give option for the creation of "branch"
+select"branch" 
+Go to "edit" button and add the edits
+add comment 
+descibe the changes
+check either "commit directly to the master branch" or "create a new baranch"
+Click "Commit"
