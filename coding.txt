@@ -1,0 +1,10 @@
+alogoritism
+
+New repository
+Name it.
+Check public 
+Create repository
+Add file
+Name file.txt
+check either "commit directly to master" or "create a new baranch"
+Click "Commit new file"
