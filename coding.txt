@@ -31,6 +31,13 @@ Click "Commit"
 When the "What if branch" idea is iterrated and gave an affirmitive feedback, lets add it to the "Master" by
 Click "compare and pull request"
 Write the text request to the master to pull the changes
+
+Fork and Pull Request
+Fork for editing the copied version of the repository 
+To do "Fork" Open the original code on other Github Profile
+click the "Fork" button 
+"Edit" the forked repository 
+suggest a "pull request"(request the changes made be encorporated by the original coder)
 click "pull request" 
 Master should accept request or reject it based on relevance and click "Merge" to accept and encorporate it
 
